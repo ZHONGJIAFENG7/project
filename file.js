@@ -6,4 +6,4 @@ fx.readFile("file.txt", "utf-8",function(error,data){
 		console.log(data);
 	}
 })
-console.log('end');
+console.log("end");
